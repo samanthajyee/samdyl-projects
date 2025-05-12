@@ -4,11 +4,11 @@
 
 | Project | Description | Repo Link |
 |--------|-------------|-----------|
-| **📊 AI Trading Algorithm** | Babybot trained on RL loops, NLP sentiment filters, and market intuition. | [samdyl-algo](https://github.com/samanthajyee/samdyl-algo) |
-| **⚾ Baseball App** | Offseason cage-booking app for youth players and college athletes. Simple, profitable, built to scale. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
-| **🧩 Puzzle App** | Attention economy puzzle game meets YouTube ad integration. Still in the lab. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
+| **📊 AI Trading Algorithm** | Reinforcement learning meets market sentiment. A babybot that makes moves like a human. | [samdyl-algo](https://github.com/samanthajyee/samdyl-algo) |
+| **⚾ Baseball App** | A platform for youth players to book time with college athletes in the offseason. Simple, profitable, and personal. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
+| **🧩 Puzzle App** | Experimental puzzle game that gamifies attention. Still in R&D. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
 
-> As of May 2025, our current priority is building the BASEBALL MVP and running the ALGO's Round 2 training loop.
+> As of May 2025, our top priorities are building the BASEBALL MVP and running the ALGO's Round 2 training loop.
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: technical repo, project structure, backend dev build path  
+**Samantha**: backend schema, project structure, dev build path  
 **Dylan**: frontend UI prototype (Figma), database diagram  
-**Next up**: booking flow logic, user roles (youth/parent/college/coach), payment sketch
+**Next up**: booking flow logic, UX for different roles (youth/parent/college/coach), payment sketch
 
 ---
 
@@ -34,14 +34,16 @@
 **Phase**: Idea stage (no dev yet)  
 **Samantha**: —  
 **Dylan**: —  
-**Next up**: define core game loop, early demo, attention monetization prototype
+**Next up**: define core gameplay loop, early demo, attention monetization prototype
 
 ---
 
 ## 🛠️ Shared Taskboard
 
+What we’re both tackling next—across all projects:
+
 - 🔄 Sync Dylan’s VSCode and repo access: In progress  
 - 🧪 Run ALGO training loop via Live Share and review first full report  
 - ✅ Add Figma link of dashboard prototype to ALGO repo  
 - ⏳ Add Figma link of app prototype to BASEBALL repo: Coming soon  
-- 💻 Draft and approve BASEBALL full-stack dev build path—what can we do and what do we still need to learn?
+- 💻 Draft and approve BASEBALL full-stack dev build path—what can we do, what do we still need to learn?
