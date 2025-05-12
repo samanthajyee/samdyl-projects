@@ -24,9 +24,9 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: backend schema, project structure, dev build path  
-**Dylan**: frontend UI prototype (Figma), database diagram  
-**Next up**: booking flow logic, UX for different roles (youth/parent/college/coach), payment sketch
+**Samantha**: repo, project structure, backend dev build path, frontend dev build path to follow  
+**Dylan**: frontend UI prototype (Figma), database schema diagram  
+**Next up**: booking flow logic, UX for different roles (youth/parent/athlete/coach), payment sketch—if not already covered in diagram
 
 ---
 
@@ -39,8 +39,6 @@
 ---
 
 ## 🛠️ Shared Taskboard
-
-What we’re both tackling next—across all projects:
 
 - 🔄 Sync Dylan’s VSCode and repo access: In progress  
 - 🧪 Run ALGO training loop via Live Share and review first full report  
