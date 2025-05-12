@@ -31,7 +31,7 @@
 ---
 
 ### [🧩 BRAINBARR](https://github.com/samanthajyee/samdyl-brainbarr) 
-**Phase**: Idea stage (no dev yet)  
+**Phase**: Idea stage (no README or dev yet)  
 **Samantha**: —  
 **Dylan**: —  
 **Next up**: define core gameplay loop, early demo, attention monetization prototype
