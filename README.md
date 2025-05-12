@@ -24,8 +24,8 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: repo, project structure, backend dev build path, frontend dev build path to follow  
-**Dylan**: frontend UI prototype (Figma), database schema diagram  
+**Samantha**: repo, project structure, back-end dev build path, front-end dev build path to follow  
+**Dylan**: front-end UI prototype (Figma), database schema diagram  
 **Next up**: booking flow logic, UX for different roles (youth/parent/athlete/coach), payment sketch—if not already covered in diagram
 
 ---
