@@ -8,7 +8,7 @@
 | **⚾ Baseball App** | A platform for youth players to book time with college athletes in the offseason. Simple, profitable, and personal. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
 | **🧩 Puzzle App** | Experimental puzzle game that gamifies and monetizes attention. Still in R&D. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
 
-> As of May 2025, our top priorities are building the BASEBALL MVP and running the ALGO's Round 2 training loop.
+> As of May 2025, our top priorities are building the BASEBALL MVP and running the ALGO’s Round 2 training loop.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 🛠️ Shared Taskboard
 
-- 🔄 Sync Dylan’s VSCode and repo access: In progress  
+- ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 🧪 Run ALGO training loop via Live Share and review first full report  
 - ✅ Add Figma link of dashboard prototype to ALGO repo  
 - ⏳ Add Figma link of app prototype to BASEBALL repo: Coming soon  
