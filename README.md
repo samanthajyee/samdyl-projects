@@ -41,7 +41,7 @@
 ## 🛠️ Shared Taskboard
 
 - ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
-- 🧪 Run ALGO training loop and review reports  
+- 🧪 Run ALGO training loop and review reports (identify signals that could inform reward logic for RL)  
 - ✅ Add Figma link of dashboard prototype to ALGO repo  
 - ⏳ Add Figma link of app prototype to BASEBALL repo: Coming soon  
 - 💻 Draft and approve BASEBALL full-stack dev build path—what can we do, what do we still need to learn?
