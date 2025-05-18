@@ -5,8 +5,8 @@
 | Project | Description | Repo Link |
 |--------|-------------|-----------|
 | **📊 AI Trading Algorithm** | Reinforcement learning meets market sentiment. A babybot that makes moves like a human. | [samdyl-algo](https://github.com/samanthajyee/samdyl-algo) |
-| **⚾ Baseball App** | A platform for youth players to book time with college athletes in the offseason. Simple, profitable, and personal. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
-| **🧩 Puzzle App** | Experimental puzzle game that gamifies and monetizes attention. Still in R&D. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
+| **⚾ Baseball App** | A scheduling app for athletes. Focused, local, and still under wraps. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
+| **🧩 Puzzle App** | Experimental puzzle game that gamifies and monetizes attention. In R&D mode. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
 
 > As of May 2025, our top priorities are building the BASEBALL MVP and running the ALGO’s Round 2 training loop.
 
