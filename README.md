@@ -24,7 +24,7 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: repo, project structure, dev build path  
+**Samantha**: repo, project structure, frontend and backend dev build path  
 **Dylan**: frontend UI prototype (Figma), database schema diagram  
 **Next up**: booking flow logic, UX for different roles (youth/parent/athlete/coach), payment sketch—if not already covered in diagram
 
@@ -44,4 +44,4 @@
 - 🧪 Run ALGO training loop and review reports (identify signals that could inform reward logic for RL)  
 - ✅ Add Figma link of dashboard prototype to ALGO repo  
 - ⏳ Add Figma link of app prototype to BASEBALL repo: Coming soon  
-- 💻 Draft and approve BASEBALL full-stack dev build path—what can we do, what do we still need to learn?
+- ✅ Choose a BASEBALL full-stack dev build path—what can we do, what do we still need to learn?
