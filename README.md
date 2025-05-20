@@ -24,8 +24,8 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: monetization docs (payment flows, thresholds, risks), learning Draftbit
-**Dylan**: frontend UI prototype (Figma), database schema diagram, learning Draftbit
+**Samantha**: monetization docs (payment flows, thresholds, risks), learning Draftbit  
+**Dylan**: frontend UI prototype (Figma), database schema diagram, learning Draftbit  
 **Next up**: basic role logic (youth/parent/athlete/coach)
 
 ---
