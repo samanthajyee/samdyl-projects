@@ -26,7 +26,7 @@
 **Phase**: Initial MVP build  
 **Samantha**: monetization docs (payment flows, thresholds, risks), learning Draftbit  
 **Dylan**: frontend UI prototype (Figma), database schema diagram, learning Draftbit  
-**Next up**: role logic (youth/parent/athlete/coach), map booking flow in Figma before building in Draftbit, brush up on JS and SQL
+**Next up**: map booking flow in Figma before building in Draftbit, brush up on JS and SQL
 
 ---
 
