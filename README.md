@@ -34,7 +34,7 @@
 **Phase**: Idea stage (no README or dev yet)  
 **Samantha**: —  
 **Dylan**: —  
-**Next up**: define core gameplay loop, early demo, attention monetization prototype
+**Next up**: define core gameplay loop, attention monetization prototype
 
 ---
 
