@@ -24,7 +24,7 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: UI/UX visioning and screen mapping, wording by user type, learning Draftbit  
+**Samantha**: UI/UX visioning, screen mapping, and wording by user type, learning Draftbit  
 **Dylan**: big-picture architecture and UML diagrams, mapped app flow, Figma-ing  
 **Next up**: review Figma prototype, finalize screens and UX voice by user type, build in Draftbit
 
