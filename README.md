@@ -41,7 +41,7 @@
 ## 🛠️ Shared Taskboard
 
 - 📖 Learn Draftbit via their [YouTube channel](https://www.youtube.com/channel/UCRXPIDo_qNVejuFZ3OEIJbw) and [website](https://docs.draftbit.com/docs/welcome-to-draftbit) for early BASEBALL frontend dev  
-- ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 🧪 Run ALGO training loop and review reports (identify signals that could inform reward logic for RL)  
+- ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 5-19-25 ✅ Choose a BASEBALL build path and tech stack—what can we do, what do we still need to learn?  
 - 5-10-25 ✅ Add Figma link of dashboard prototype to ALGO repo  
