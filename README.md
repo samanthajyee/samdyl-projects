@@ -26,7 +26,7 @@
 **Phase**: Initial MVP build  
 **Samantha**: UI/UX visioning and screen mapping, wording by user type, learning Draftbit  
 **Dylan**: big-picture architecture and UML diagrams, mapped app flow, Figma-ing  
-**Next up**: review Figma prototype, finalize screens & UX voice by user type, build in Draftbit
+**Next up**: review Figma prototype, finalize screens and UX voice by user type, build in Draftbit
 
 ---
 
