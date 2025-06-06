@@ -24,9 +24,9 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: monetization docs (payment flows, thresholds, risks), learning Draftbit  
-**Dylan**: frontend UI Figma prototype(s), database schema diagram, learning Draftbit  
-**Next up**: map booking flows before building in Draftbit, brush up on JS and SQL
+**Samantha**: user flows and wireframes, UI/UX by user type, starting in Draftbit  
+**Dylan**: big-picture architecture, UML diagrams, creating internal logic/recipes    
+**Next up**: anything goes???
 
 ---
 
