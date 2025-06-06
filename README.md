@@ -24,8 +24,8 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: UI/UX visioning, screen mapping, and wording by user type, learning Draftbit  
-**Dylan**: big-picture architecture and UML diagrams, mapped app flow, Figma-ing  
+**Samantha**: UX visioning, screen mapping, and wording by user type, learning Draftbit  
+**Dylan**: big-picture architecture, mapped app flow, whiteboarding UI, learning Draftbit  
 **Next up**: review Figma prototype, finalize screens and UI/UX by user type, build in Draftbit
 
 ---
@@ -40,9 +40,8 @@
 
 ## 🛠️ Shared Taskboard
 
-- ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 📖 Learn Draftbit via their [YouTube channel](https://www.youtube.com/channel/UCRXPIDo_qNVejuFZ3OEIJbw) and [website](https://docs.draftbit.com/docs/welcome-to-draftbit) for early BASEBALL frontend dev  
-- ⏳ Add Figma link of app prototype to BASEBALL repo: Coming soon  
+- ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 🧪 Run ALGO training loop and review reports (identify signals that could inform reward logic for RL)  
 - 5-19-25 ✅ Choose a BASEBALL build path and tech stack—what can we do, what do we still need to learn?  
 - 5-10-25 ✅ Add Figma link of dashboard prototype to ALGO repo  
