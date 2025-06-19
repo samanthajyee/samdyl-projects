@@ -24,8 +24,8 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: visioning role-based UX (different for youth/parent/athlete/coach) 
-**Dylan**: big-picture architecture thinking, mapped app flow, whiteboarding UI
+**Samantha**: visioning role-based UX (different for youth/parent/athlete/coach)  
+**Dylan**: big-picture architecture thinking, mapped app flow, whiteboarding UI  
 **Next up**: finalize flows, screens, and UI/UX by user type, build prototype in FlutterFlow
 
 ---
