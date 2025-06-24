@@ -24,7 +24,7 @@
 
 ### [⚾️ BASEBALL](https://github.com/samanthajyee/samdyl-baseball) 
 **Phase**: Initial MVP build  
-**Samantha**: visioning role-based UX (different for youth/parent/athlete/coach)  
+**Samantha**: learning Supabase and SQL for backend and database logic  
 **Dylan**: big-picture architecture thinking, mapped app flow, whiteboarding UI  
 **Next up**: finalize flows, screens, and UI/UX by user type, build prototype in FlutterFlow
 
@@ -40,6 +40,7 @@
 
 ## 🛠️ Shared Taskboard
 
+- 📚 Learn FlutterFlow, Dart, and Supabase basics  
 - 🧪 Run ALGO training loop and review reports (identify signals that could inform reward logic for RL)  
 - ⏸️ Sync Dylan’s VSCode and repo access: Paused for now  
 - 5-19-25 ✅ Choose a BASEBALL build path and tech stack—what can we do, what do we still need to learn?  
