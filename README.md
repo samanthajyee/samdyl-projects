@@ -8,7 +8,7 @@
 | **⚾ Baseball App** | A scheduling app for youth athletes. Focused, local, and still under wraps. | [samdyl-baseball](https://github.com/samanthajyee/samdyl-baseball) |
 | **🧩 Puzzle App** | Experimental puzzle games that monetize attention. In R&D mode. | [samdyl-brainbarr](https://github.com/samanthajyee/samdyl-brainbarr) |
 
-> 🔒 Descriptions are intentionally vague on this tracker to keep core logic, monetization models, and technical architecture private. As of June/July 2025, our top priorities are building the BASEBALL MVP and running the ALGO’s Round 2 training loop.
+> 🔒 Descriptions are intentionally vague on this tracker to keep core logic, monetization models, and technical architecture private. As of June 2025, our top priorities are building the BASEBALL MVP and running the ALGO’s Round 2 training loop.
 
 ---
 
